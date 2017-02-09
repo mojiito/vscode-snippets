@@ -10,7 +10,7 @@
       "})",
       "export class ${Feature}Component {",
       "",
-      "\tconstructor(private _elementRef: ElementRef) { }",
+      "\tconstructor(private elementRef: ElementRef) { }",
       "",
       "}"
     ]
