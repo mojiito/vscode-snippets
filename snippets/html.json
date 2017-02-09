@@ -1,0 +1,11 @@
+{
+  "mjContainer": {
+    "prefix": "mj-mjContainer",
+    "body": [
+      "<div data-${Feature}>",
+      "\t",
+      "</div>"
+    ],
+    "description": "Container for a Mojito Component"
+  }
+}

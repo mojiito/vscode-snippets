@@ -1,0 +1,38 @@
+{
+  "Mojito Component": {
+    "prefix": "mj-component",
+    "description": "Mojito component snippet",
+    "body": [
+      "import { Component, ElementRef } from 'mojito';",
+      "",
+      "@Component({",
+      "\tselector: '${selector}'",
+      "})",
+      "export class ${Feature}Component {",
+      "",
+      "private _element: Element;",
+      "",
+      "\tconstructor(private _elementRef: ElementRef) {",
+      "\t\tthis._element = this._elementRef.nativeElement;",
+      "\t}",
+      "",
+      "}"
+    ]
+  },
+  "Mojito Service": {
+    "prefix": "mj-service",
+    "description": "Mojito service snippet",
+    "body": [
+      "import { Injectable } from 'mojito';",
+      "",
+      "@Injectable()",
+      "export class ${ServiceName}Service {",
+      "",
+      "\tconstructor() {",
+      "\t\t",
+      "\t}",
+      "",
+      "}"
+    ]
+  }
+}
