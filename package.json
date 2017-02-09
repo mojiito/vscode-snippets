@@ -1,0 +1,37 @@
+{
+    "name": "vscode-mojito-snippets",
+    "publisher": "lukasholzer",
+    "displayName": "Mojito Typescript Snippets",
+    "description": "Mojito Typescript snippets for Visualstudio Code",
+    "icon": "images/mojito.png",
+    "galleryBanner": {
+        "color": "#d4b862",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:lukasholzer/vscode-mojito-snippets.git"
+    },
+    "keywords" : [
+        "Mojito",
+        "TypeScript",
+        "Snippets",
+        "VS code"
+    ],
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.8.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescript",
+                "path": "./snippets/typescript.json"
+            }
+        ]
+    }
+}
