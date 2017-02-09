@@ -12,9 +12,7 @@
       "",
       "private _element: Element;",
       "",
-      "\tconstructor(private _elementRef: ElementRef) {",
-      "\t\tthis._element = this._elementRef.nativeElement;",
-      "\t}",
+      "\tconstructor(private _elementRef: ElementRef) { }",
       "",
       "}"
     ]
