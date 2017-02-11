@@ -24,10 +24,6 @@
       "@Injectable()",
       "export class ${ServiceName}Service {",
       "",
-      "\tconstructor() {",
-      "\t\t",
-      "\t}",
-      "",
       "}"
     ]
   }
