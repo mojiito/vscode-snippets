@@ -1,8 +1,8 @@
 {
-    "name": "vscode-mojito-snippets",
+    "name": "vscode-mojiito-snippets",
     "publisher": "thomaspink",
-    "displayName": "Mojito Typescript Snippets",
-    "description": "Mojito Typescript snippets for Visualstudio Code",
+    "displayName": "Mojiito Typescript Snippets",
+    "description": "Mojiito Typescript snippets for Visualstudio Code",
     "icon": "images/mojito.png",
     "galleryBanner": {
         "color": "#d4b862",
@@ -14,7 +14,7 @@
         "url": "git@github.com:mojito-js/vscode-mojito-snippets.git"
     },
     "keywords" : [
-        "Mojito",
+        "Mojiito",
         "TypeScript",
         "Snippets",
         "VS code"
