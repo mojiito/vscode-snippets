@@ -1,12 +1,12 @@
-# Mojito VS-Code Snippets
+# Mojiito VS-Code Snippets
 
 
-For Mojito Version 2.0.0-alpha.2
+For Mojiito Version 2.0.0-alpha.2
 
 ### TypeScript Snippets
 ```
-mj-component      // Mojito Component
-mj-service        // Mojito Service
+mj-component      // Mojiito Component
+mj-service        // Mojiito Service
 ```
 
 Alternatively, press `Ctrl`+`Space` (Windows, Linux) or `Cmd`+`Space` (OSX) to activate snippets from within the editor.
