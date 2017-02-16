@@ -1,9 +1,9 @@
 {
-  "Mojito Component": {
+  "Mojiito Component": {
     "prefix": "mj-component",
-    "description": "Mojito component snippet",
+    "description": "Mojiito component snippet",
     "body": [
-      "import { Component, ElementRef } from 'mojito';",
+      "import { Component, ElementRef } from 'mojiito-core';",
       "",
       "@Component({",
       "\tselector: '${selector}'",
@@ -15,11 +15,11 @@
       "}"
     ]
   },
-  "Mojito Service": {
+  "Mojiito Service": {
     "prefix": "mj-service",
-    "description": "Mojito service snippet",
+    "description": "Mojiito service snippet",
     "body": [
-      "import { Injectable } from 'mojito';",
+      "import { Injectable } from 'mojiito-core';",
       "",
       "@Injectable()",
       "export class ${ServiceName}Service {",
